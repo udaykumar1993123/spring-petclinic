@@ -222,7 +222,7 @@
     <repository>
       <id>spring-snapshots</id>
       <name>Spring Snapshots</name>
-      <url>https://repo.spring.io/snapshot</url>
+      <url>http://13.127.160.64:8081/repository/my_nexus/</url>
       <snapshots>
         <enabled>true</enabled>
       </snapshots>
